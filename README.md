@@ -59,3 +59,50 @@ Example: yarn run start
 6. yarn install: This command installs all the dependencies listed in the package.json file.
 
 Example: yarn install
+
+# More details with another attempt
+
+### set me up with an environment to to html / javacript development on Windows using github and vs code
+
+1. Install Visual Studio Code: 
+Visit https://code.visualstudio.com/ and download the Windows version of Visual Studio Code.
+
+2. Install Git: 
+Visit https://git-scm.com/download/win and download the Windows version of Git.
+
+3. Configure VS Code: 
+Open VS Code and go to File > Preferences > Settings. Under the User tab, select the "Format on Save" checkbox. This will automatically format your code when you save it.
+
+4. Install Node.js: 
+Visit https://nodejs.org/en/ and download the Windows version of Node.js.
+
+5. Install a JavaScript package manager: 
+Visit https://yarnpkg.com/lang/en/ and download the Windows version of Yarn.
+
+6. Configure GitHub: 
+Visit https://github.com/ and create an account. Then, create a repository for your project.
+
+7. Install a JavaScript linter: 
+Visit https://eslint.org/ and download the Windows version of ESLint.
+
+8. Install a code formatter: 
+Visit https://prettier.io/ and download the Windows version of Prettier.
+
+9. Start coding: 
+Open VS Code and start coding in HTML, JavaScript, and CSS. Use the tools you installed to help you write better code.
+
+### I don't understand step 7. What is a linter?
+
+A linter is a tool that helps you find and fix errors in your code. It checks your code for potential problems and suggests ways to improve it. Linters can help you write better code by catching errors before you even run the code.
+
+### Is ESLint recognized among developers?
+
+Yes, ESLint is a popular and widely used tool among developers. It is a powerful tool that helps developers write better code and catch errors early.
+
+### Is it standalone, or comes as a VS Code extension?
+
+ESLint can be used as a standalone tool or as a VS Code extension. The VS Code extension allows you to integrate ESLint into your workflow, so you can see errors and warnings in your code as you type.
+
+### Is the extension enough for ESLint to work in VS Code, or should I install from their website and also as an extension?
+
+You should install ESLint from their website and also as an extension in VS Code. The extension allows you to integrate ESLint into your workflow, so you can see errors and warnings in your code as you type.
